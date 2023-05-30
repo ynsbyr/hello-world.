@@ -1,2 +1,3 @@
 # hello-world.
-örnek2
+# bu aşamayı kaydedecek mi ona bakacağım
+
